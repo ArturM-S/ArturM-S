@@ -19,13 +19,13 @@ Throughout my career, I've dedicated myself to being available to help and learn
 ### Main Technologies ✨
 
 <p align="left">
-  <img height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="LinkedIn"/></a>
-  <img height="24px" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" alt="LinkedIn"/></a>
-  <img height="24px" src="https://nodejs.org/static/images/favicons/favicon.png" alt="LinkedIn"/></a>
-  <img height="24px" src="https://nestjs.com/logo-small.ede75a6b.svg" alt="LinkedIn"/></a>
-  <img height="24px" src="https://reactnative.dev/img/header_logo.svg" alt="LinkedIn"/></a>
-  <img height="24px" src="https://graphql.org/img/logo.svg" alt="LinkedIn"/></a>
-  <img height="24px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="LinkedIn"/></a>
+  <img height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JS"/></a>
+  <img height="24px" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" alt="TS"/></a>
+  <img height="24px" src="https://nodejs.org/static/images/favicons/favicon.png" alt="Node"/></a>
+  <img height="24px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAofZNgcwvEmej4efJh-HT8BDeG1iLOlRew&s" alt="Nest"/></a>
+  <img height="24px" src="https://reactnative.dev/img/header_logo.svg" alt="React Native"/></a>
+  <img height="24px" src="https://graphql.org/img/logo.svg" alt="graphql"/></a>
+  <img height="24px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="AWS"/></a>
   </p>
 
 ### Git stats 📊
